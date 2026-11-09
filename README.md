@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm MD. Imran Sarker 👋
 
-<!--
-**Imran0172/Imran0172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Digital Marketer & Web Developer · Founder & CEO of Humble IT Solution**
 
-Here are some ideas to get you started:
+With 4+ years of experience, I help businesses grow online by connecting paid ads, accurate tracking and high-converting websites into one system.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+
+- **Paid Advertising:** Facebook, Instagram, Google and TikTok ads, from strategy to optimization and budget scaling
+- **Tracking & Analytics:** Meta Pixel, Conversion API, e-commerce event setup and audits
+- **Web Development:** Laravel and WordPress e-commerce platforms, high-converting landing pages
+
+## Tools
+
+`Laravel` `WordPress` `Meta Ads` `Google Ads` `TikTok Ads` `Meta Pixel` `Conversion API`
+
+## Let's work together
+
+- 🌐 [imransarker.com](https://imransarker.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/md-imran-sarker-919410299)
+- 🧑‍💻 [Upwork](https://www.upwork.com/freelancers/~01a82b235ef59176f9)
+- 🐦 [X](https://x.com/imu46726)
+- ✉️ [info@imransarker.com](mailto:info@imransarker.com)
